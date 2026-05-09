@@ -1,0 +1,16 @@
+.table{
+    width: 100%;
+}
+.tablediv{
+    padding: 15px;
+    border: 1px solid black;
+    border-radius: 16px;
+    box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.6);
+    margin: 20px;
+    margin-top: 15px;
+}
+@media print {
+  .noPrintCol {
+    display: none;
+  }
+}

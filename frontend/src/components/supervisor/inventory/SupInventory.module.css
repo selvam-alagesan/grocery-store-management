@@ -1,0 +1,17 @@
+.hone{
+    background-color: rgb(23, 85, 109);;
+    height: 55px;
+    color: white;
+}
+.div{
+    min-height: 200px;
+    margin: 30px;
+    border: 1px solid black;
+    box-shadow: 0px 10px 15px  rgba(0, 0, 0, 0.4);
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 15px;
+}
+.table{
+    width: 100%;
+}

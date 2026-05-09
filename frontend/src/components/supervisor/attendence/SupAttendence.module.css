@@ -1,0 +1,11 @@
+.tablediv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 800px;
+    margin: auto;
+    border: 1px solid black;
+    padding: 30px;
+    border-radius: 16px;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.6);
+}

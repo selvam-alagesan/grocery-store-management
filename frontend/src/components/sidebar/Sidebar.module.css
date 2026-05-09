@@ -1,0 +1,20 @@
+.sidebar {
+    width: 200px;
+    min-height: 100vh;
+    background-color: rgb(23, 85, 109);
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.sideButtons{
+    width: 100%;
+    height: 75px;
+    color: white;
+  
+    margin-top: 5px;
+    font-size: 25px;
+}
+:global(.nav-link.active).sideButtons {
+    color: #0d6efd !important;  /* Bootstrap blue */
+}
